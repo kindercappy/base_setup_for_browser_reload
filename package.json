@@ -1,0 +1,21 @@
+{
+  "name": "roundglass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://kinderpreet:AudI9988401022@bitbucket.org/roundglass/webdev-rg-roundglass.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/roundglass/webdev-rg-roundglass#readme",
+  "devDependencies": {
+    "browser-sync": "^2.23.2",
+    "gulp": "^3.9.1",
+    "gulp-watch": "^4.3.11"
+  }
+}
