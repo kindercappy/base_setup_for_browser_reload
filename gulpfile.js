@@ -14,4 +14,4 @@ gulp.task('watch',function(){
 	return gulp.watch('**/*.*',['browser-sync']);
 });
 
-gulp.task('rg',['watch','browser-sync']);
+gulp.task('default',['watch','browser-sync']);
